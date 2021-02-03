@@ -214,8 +214,66 @@ for more information.
 
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
+<div class="row">
+<div class="col-md-3">
+  <h3>Day 1</h3>
+  <table class="table table-striped">
+    <tr> <td>09:30</td>  <td>Introductions</td> </tr>
+    <tr> <td>10:00</td>  <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building skill with practice</a></td> </tr>
+    <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+    <tr> <td>10:50</td>  <td><a href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and instruction</a></td> </tr>
+    <tr> <td>11:45</td>  <td>Breakout session</td> </tr>
+  </table>
+</div>
+
+<div class="col-md-3">
+  <h3>Day 2</h3>
+  <table class="table table-striped">
+    <tr> <td>9:30</td>  <td><a href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and cognitive load</a></td> </tr>
+    <tr> <td>10:00</td>  <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building skill with feedback</a></td> </tr>
+    <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+    <tr> <td>10:50</td>  <td><a href="https://carpentries.github.io/instructor-training/08-motivation/">Motivation and demotivation</a></td> </tr>
+    <tr> <td>11:45</td>  <td>Breakout session</td> </tr>
+  </table>
+</div>
+
+<div class="col-md-3">
+  <h3>Day 3</h3>
+  <table class="table table-striped">
+    <tr> <td>9:30</td>  <td><a href="https://carpentries.github.io/instructor-training/14-live/index.html">Live-coding is a skill</a></td> </tr>
+    <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+    <tr> <td>10:50</td>  <td><a href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparting to teach</a></td> </tr>
+    <tr> <td>11:45</td>  <td>Breakout session</td> </tr>
+  </table>
+</div>
+
+<div class="col-md-3">
+  <h3>Day 4</h3>
+  <table class="table table-striped">
+    <tr> <td>9:30</td>  <td><a href="https://carpentries.github.io/instructor-training/17-performance/index.html">More practice live-coding</a></td> </tr>
+    <tr> <td>10:00</td>  <td><a href="https://carpentries.github.io/instructor-training/20-checkout/index.html">The checkout process</a></td> </tr>
+    <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+    <tr> <td>10:50</td>  <td><a href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a diverse classroom</a></td> </tr>
+    <tr> <td>11:45</td>  <td>Breakout session</td> </tr>
+  </table>
+</div>
+
+<div class="col-md-3">
+  <h3>Day 5</h3>
+  <table class="table table-striped">
+    <tr> <td>9:30</td>  <td><a href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: how we operate</a></td> </tr>
+    <tr> <td>10:00</td>  <td><a href="https://carpentries.github.io/instructor-training/23-introductions/index.html">Workshop introductions</a></td> </tr>
+    <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+    <tr> <td>10:50</td>  <td><a href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting it together</a></td> </tr>
+    <tr> <td>11:45</td>  <td>Breakout session</td> </tr>
+  </table>
+</div>
+
+
+</div>
+
 <p>
-  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
+  Please also see <a href="{{ site.training_site }}">this site</a> for course material.
 </p>
 
 
