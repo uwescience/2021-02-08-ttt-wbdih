@@ -15,7 +15,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 locations:
   - venue: "Online"
 
-  - venue: "[West Big Data Innovation Hub](https://westbigdatahub.org/)"
+  - venue: "West Big Data Innovation Hub"
 
 ---
 
