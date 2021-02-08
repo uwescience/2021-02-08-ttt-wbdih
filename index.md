@@ -228,9 +228,9 @@ for more information.
   <h3>Day 2</h3>
   <table class="table table-striped">
     <tr> <td>9:30</td>  <td><a href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and cognitive load</a></td> </tr>
-    <tr> <td>10:00</td>  <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building skill with feedback</a></td> </tr>
+    <tr> <td>10:00</td>  <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building skill with feedback</a> + <a href="https://carpentries.github.io/instructor-training/08-motivation/">Motivation and demotivation</a></td> </tr>
     <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
-    <tr> <td>10:50</td>  <td><a href="https://carpentries.github.io/instructor-training/08-motivation/">Motivation and demotivation</a></td> </tr>
+    <tr> <td>10:50</td>  <td> <a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching is a skill</a> </td> </tr>
     <tr> <td>11:45</td>  <td>Breakout session</td> </tr>
   </table>
 </div>
