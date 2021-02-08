@@ -240,7 +240,7 @@ for more information.
   <table class="table table-striped">
     <tr> <td>9:30</td>  <td><a href="https://carpentries.github.io/instructor-training/14-live/index.html">Live-coding is a skill</a></td> </tr>
     <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
-    <tr> <td>10:50</td>  <td><a href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparting to teach</a></td> </tr>
+    <tr> <td>10:50</td>  <td><a href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to teach</a></td> </tr>
     <tr> <td>11:45</td>  <td>Breakout session</td> </tr>
   </table>
 </div>
